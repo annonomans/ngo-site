@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ngo-site/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/ngo-site/static/js/main.78143508.chunk.js",
+    "main.js.map": "/ngo-site/static/js/main.78143508.chunk.js.map",
+    "runtime-main.js": "/ngo-site/static/js/runtime-main.34377a78.js",
+    "runtime-main.js.map": "/ngo-site/static/js/runtime-main.34377a78.js.map",
+    "static/js/2.d4e29f33.chunk.js": "/ngo-site/static/js/2.d4e29f33.chunk.js",
+    "static/js/2.d4e29f33.chunk.js.map": "/ngo-site/static/js/2.d4e29f33.chunk.js.map",
+    "static/js/3.89f1b47b.chunk.js": "/ngo-site/static/js/3.89f1b47b.chunk.js",
+    "static/js/3.89f1b47b.chunk.js.map": "/ngo-site/static/js/3.89f1b47b.chunk.js.map",
+    "index.html": "/ngo-site/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/ngo-site/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d4e29f33.chunk.js.LICENSE.txt": "/ngo-site/static/js/2.d4e29f33.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ngo-site/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34377a78.js",
+    "static/js/2.d4e29f33.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.78143508.chunk.js"
+  ]
+}
